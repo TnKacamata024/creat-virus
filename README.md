@@ -13,4 +13,4 @@ $ pkg install git
 $ git clone https://github.com/TnKacamata024/creat-virus
 $ cd creat-virus
 $ ls
-$ python2 Virus4.py
+$ sh VirusSc.sh
